@@ -3,6 +3,7 @@ import { View, Text, Pressable, withExpoSnack } from "./expo-snack";
 import { vars } from "nativewind";
 
 // Test
+// Another one
 
 const theme = vars({
   "--theme-fg": "black",
